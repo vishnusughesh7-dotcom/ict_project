@@ -1,4 +1,4 @@
-# Vishnu Sugesh | EmployeeHub
+# Vishnu Sughesh | EmployeeHub
 
 A clean, portfolio-ready Employee Management application built with the MERN stack.
 
